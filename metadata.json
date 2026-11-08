@@ -1,0 +1,6 @@
+{
+  "name": "Awaken System",
+  "description": "Offline-first personal real-world fitness progression RPG with adaptive daily quests, 5-attribute character progression, skill trees, and on-device camera movement verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

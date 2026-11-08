@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="400dp"
+    android:height="200dp"
+    android:viewportWidth="400"
+    android:viewportHeight="200">
+    <path
+        android:fillColor="#080D1A"
+        android:pathData="M0,0h400v200h-400z" />
+    <!-- Futuristic HUD Grid Lines -->
+    <path
+        android:strokeColor="#1F00F0FF"
+        android:strokeWidth="1"
+        android:pathData="M0,40 L400,40 M0,80 L400,80 M0,120 L400,120 M0,160 L400,160 M60,0 L60,200 M140,0 L140,200 M220,0 L220,200 M300,0 L300,200 M360,0 L360,200" />
+    <!-- Glowing Telemetry Rings on Right -->
+    <path
+        android:fillColor="#129D4EDD"
+        android:strokeColor="#559D4EDD"
+        android:strokeWidth="2"
+        android:pathData="M310,30 L365,62 L365,126 L310,158 L255,126 L255,62 Z" />
+    <path
+        android:fillColor="#1A00F0FF"
+        android:strokeColor="#8800F0FF"
+        android:strokeWidth="2.5"
+        android:pathData="M310,50 L347,72 L347,116 L310,138 L273,116 L273,72 Z" />
+    <path
+        android:fillColor="#00F0FF"
+        android:pathData="M310,74 L328,104 L317,104 L310,92 L303,104 L292,104 Z" />
+</vector>
